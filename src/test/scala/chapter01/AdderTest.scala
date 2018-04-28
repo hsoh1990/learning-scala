@@ -15,8 +15,7 @@ class AdderTest extends FunSuite with BeforeAndAfterEach {
 
   }
 
-  test("testAdd") {
+  test("testAdd success") {
     assert(adder.add(1, 2) == 3)
   }
-
 }
