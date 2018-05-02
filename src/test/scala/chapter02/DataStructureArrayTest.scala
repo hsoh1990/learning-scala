@@ -1,6 +1,6 @@
 package chapter02
 
-import org.scalatest.{BeforeAndAfterEach, FunSuite}
+import org.scalatest._
 
 class DataStructureArrayTest extends FunSuite with BeforeAndAfterEach {
 
